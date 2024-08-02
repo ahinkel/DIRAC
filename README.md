@@ -22,5 +22,6 @@ Finally, in an effort to compare the investment to that of a typical college end
 
 TBA
 
+Note: js and html code created with help of ChatGPT.
 
 ## in progress....
