@@ -1,4 +1,4 @@
-const csvUrl = 'college_ira_data.csv'; // URL to CSV file to search
+const csvUrl = './college_ira_data.csv'; // URL to CSV file to search
 
 document.getElementById('searchInput').addEventListener('input', filterTable);
 
